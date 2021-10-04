@@ -14,7 +14,7 @@ const Banner = () => {
             </h1>
             <p className="text-white text-center mt-3">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
-              tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+              tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.now
             </p>
             <button className="mt-3 about-btn">About Us</button>
           </div>
